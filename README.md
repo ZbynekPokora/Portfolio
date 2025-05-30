@@ -1,12 +1,12 @@
-# Portfolio projektů
+# Portfolio of projects
 
-V tomto repozitáři najdete výběr mých projektů z oblasti datové analýzy, vizualizace a reportingových nástrojů.
+In this repository you will find a selection of my projects in the field of data analysis, visualization and reporting tools.
 
-## Projekty
+## Projects
 
 - [Analýza dostupnosti lokalit v JMK hromadnou dopravou](./Anal%C3%BDza%20dopravn%C3%AD%20dostupnosti%20v%20JMK%20hromadnou%20dopravou)  
-  Prostorová analýza dostupnosti pomocí veřejné dopravy v Jihomoravském kraji.
+  Spatial analysis of accessibility by public transport in the South Moravian Region. Available article in PDF format, script optimized for Google Colab environment and interactive visualization of results.
  
 - [PowerBI](./PowerBI)  
-  Ukázky reportů a dashboardů vytvořených v Power BI.
+    Examples of reports and dashboards created in Power BI.
   
