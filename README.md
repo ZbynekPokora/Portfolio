@@ -1,4 +1,4 @@
-# Portfolio of projects
+# Portfolio
 
 In this repository you will find a selection of my projects in the field of data analysis, visualization and reporting tools.
 
